@@ -14,6 +14,7 @@
 
 
 """
-print("love")
+def print():
+  love
 
 """
