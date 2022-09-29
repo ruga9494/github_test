@@ -20,8 +20,23 @@
 ![alt text](https://assets.blog.engoo.com/wp-content/uploads/sites/2/2018/10/17090423/photo-1481740586420-804cc4418700-860x700.jpg)
 
 
+첫번째줄
+***
+두번째줄
+- - -
+세번째줄
+
+*강조1*
+**강조2**
+***강조3***
+****강조4****
+~~중간선~~
+
+
+
 ```
 def print():
   love
 
 ```
+
